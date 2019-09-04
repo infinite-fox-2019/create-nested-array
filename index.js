@@ -15,3 +15,5 @@ function createNestedArray(row, col){
 }
 
 console.log(createNestedArray(5,3));
+console.log(createNestedArray(4,2));
+
