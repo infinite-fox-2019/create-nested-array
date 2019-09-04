@@ -1,5 +1,5 @@
 function createNestedArr(jumlahRow, jumlahCol) {
-    var result = [];
+    let result = [];
     for(let i = 0; i < jumlahRow; i++) {
         result[i] = [];
         for(let j = 0; j < jumlahCol; j++) {
