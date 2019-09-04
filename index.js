@@ -1,6 +1,5 @@
 const createNestedArr = (row, col) => {
   const alphabet = 'abcdefghijklmnopqrstuvwxyz'
-  const totalItem = row * col
   let counter = 1
   const result = []
 
